@@ -1,18 +1,56 @@
 # Analítica de Datos - Intro. Ing de Sistemas
 
-<p align="center">
-  <a href="/colab.png" target="_blank" style="text-decoration: none;">
-    <span style="
-      display: inline-block;
-      background-color: #ff8c00;
-      color: white;
-      padding: 10px 20px;
-      font-size: 16px;
-      font-weight: bold;
-      border-radius: 5px;
-      box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
-    ">Go to Colab File</span>
-  </a>
-</p>
+[Go to .ipynb File](https://colab.research.google.com/assets/colab-badge.svg)
 
 ## Introducción
+holis
+#
+
+## Metodología
+holis
+#
+
+### Datos Generales del Data Set
+| dsfdsfsdfds | como estas | tal vez |
+| ----------- | ---------- | ------- |
+| cosa        | tal vez    | no      |
+#
+#
+
+### Perfiles
+
+#### **Perfil #1 - Departamento de Migración (Política migratoria y control fronterizo)**
+
+Este perfil corresponde a académicos, analistas o funcionarios que estudian tendencias migratorias.
+
+- **Pregunta #1** - ¿Cuáles son los países con más solicitantes de visa para Colombia?
+- **Pregunta #2** - ¿Existe una diferencia significativa en la cantidad de solicitudes según el sexo del solicitante?
+
+#### **Perfil #2 - Reclutador de Talento Internacional**
+
+Empresas que buscan contratar talento extranjero o gestionar movilidad laboral.
+
+- **Pregunta #1** - ¿Cuáles son los años con mayor crecimiento en solicitudes de visa con vocación de permanencia? 
+- **Pregunta #2** - ¿Qué edad promedio tienen los solicitantes de visa con vocación de permanencia?
+
+#### **Perfil #3 - Periodista en Medios de Comunicación**
+
+Interesado en informar sobre tendencias migratorias en Colombia.
+
+- **Pregunta #1** - ¿Cuántas solicitudes de visa se han registrado anualmente en Colombia desde el 2017? 
+- **Pregunta #2** - ¿Qué porcentaje del total de solicitudes corresponde a cada nacionalidad?
+#
+#
+
+### Herramientas Utilizadas en el Analísis
+holis
+#
+#
+
+## Resultados
+holis
+#
+
+## Conclusiones
+holis
+#
