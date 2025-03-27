@@ -11,9 +11,26 @@ holis
 #
 
 ### Datos Generales del Data Set
-| dsfdsfsdfds | como estas | tal vez |
-| ----------- | ---------- | ------- |
-| cosa        | tal vez    | no      |
+- **Nombre del data set:** Volumen de Solicitudes de Visa Colombiana recibidas desde 2017
+- **Datos suministrados por:** Ministerio de Relaciones Exteriores
+- **Categoría:** Estadísticas Nacionales
+- **Idioma:** Español
+- **Cobertura Geográfica:** Internacional
+- **Fecha de creación:** 26 de diciembre del 2024
+- **Ultima actualización:** 26 de diciembre del 2024
+- **Número de filas:** 350k
+- **Número de columnas:** 6
+- **Cada fila es:** una solicitud de visa
+- **Datos que contiene:** Contiene información sobre el número anual de solicitudes de visas recibidas por parte de la Autoridad de Visas e Inmigración, fecha de solicitud, sexo, nacionalidad, fecha de nacimiento del solicitante y la vocación de permanencia.
+
+| Nombre de la Columna        | Descripción                                       | Tipo de Dato             |
+| --------------------------- | ------------------------------------------------- | ------------------------ |
+| **Año Solicitud**           | Año en el que se radica la solicitud              | Número                   |
+| **Nacionalidad**            | Nacionalidad registrada en el pasaporte           | Texto                    |
+| **Sexo**                    | Sexo registrado por el solicitante                | Texto                    |
+| **Fecha de Nacimiento**     | Fecha de nacimiento registrada por el solicitante | Marca de tiempo variable |
+| **Vocación de Permanencia** | Tipo de visa solicitada                           | Texto                    |
+| **Número**                  | Número de visas                                   | Número                   |
 #
 
 ### Perfiles
@@ -47,7 +64,9 @@ holis
 #
 
 ## Resultados
-holis
+
+Los resultados se encuentran en cada carpeta de cada perfil con su respectiva grafica y explicación. Cada carpeta tiene un archivo README que tiene las respuestas y a su vez las graficas.
+
 #
 
 ## Conclusiones
