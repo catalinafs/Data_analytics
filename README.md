@@ -1,4 +1,4 @@
-# 📊Analítica de Datos - Intro. Ing de Sistemas
+# 📊Analítica de Datos - Intro. Ing. de Sistemas
 
 [Go to .ipynb File](https://colab.research.google.com/assets/colab-badge.svg)
 
@@ -13,8 +13,8 @@
 ### Contexto
 El presente análisis se basa en el conjunto de datos publicado por el Gobierno de Colombia sobre el volumen de solicitudes de visa colombiana recibidas. Este dataset contiene información detallada de los solicitantes, incluyendo su nacionalidad, sexo, año de solicitud y tipo de visa. El objetivo es identificar tendencias y patrones en las solicitudes, facilitando una comprensión general del perfil de los solicitantes y su distribución a lo largo del tiempo.
 
-### Justificación del Analísis
-Este análisis de datos sobre las solicitudes de visa para Colombia es útil para diferentes personas e instituciones que necesitan entender cómo se mueve la migración en el país. Para el Departamento de Migración, la información ayuda a saber de qué países vienen más solicitantes y si hay diferencia entre hombres y mujeres que piden visa. Esto les sirve para tomar decisiones sobre políticas migratorias y controlar mejor las entradas al país.
+### Justificación del Análisis
+Este análisis de datos sobre las solicitudes de visa para Colombia es útil para diferentes personas e instituciones que necesitan entender cómo se mueve la migración en el país. Para el Departamento de Migración, la información ayuda a saber de qué países vienen más solicitantes y si hay diferencia entre hombres y mujeres que solicitan visa. Esto les sirve para tomar decisiones sobre políticas migratorias y controlar mejor las entradas al país.
 
 También es importante para las empresas que buscan contratar extranjeros, ya que con estos datos pueden saber en qué años han aumentado las solicitudes de visa con intención de quedarse en Colombia y cuál es la edad promedio de esas personas. Así, pueden planear mejor sus procesos de contratación.
 
@@ -25,13 +25,13 @@ Además, los datos pueden ser útiles para periodistas o medios de comunicación
 ## 🛠️Metodología
 
 ### Datos Generales del Data Set
-- **Nombre del data set:** Volumen de Solicitudes de Visa Colombiana recibidas desde 2017
+- **Nombre del dataset:** Volumen de Solicitudes de Visa Colombiana recibidas desde 2017
 - **Datos suministrados por:** Ministerio de Relaciones Exteriores
 - **Categoría:** Estadísticas Nacionales
 - **Idioma:** Español
 - **Cobertura Geográfica:** Internacional
 - **Fecha de creación:** 26 de diciembre del 2024
-- **Ultima actualización:** 26 de diciembre del 2024
+- **Última actualización:** 26 de diciembre del 2024
 - **Número de filas:** 350k
 - **Número de columnas:** 6
 - **Cada fila es:** una solicitud de visa
@@ -49,7 +49,7 @@ Además, los datos pueden ser útiles para periodistas o medios de comunicación
 
 ### 👤Perfiles
 
-**`Dar click en el perfil que desea revisar los resultados para dirigirse a las respuestas de las preguntas y sus respectivas graficas`**
+**`Hacer clic en el perfil que desea revisar los resultados para dirigirse a las respuestas de las preguntas y sus respectivas gráficas`**
 
 #### [**🔗 Perfil #1 - Departamento de Migración (Política migratoria y control fronterizo)**](/1-Perfil/README.md)
 
@@ -73,7 +73,7 @@ Interesado en informar sobre tendencias migratorias en Colombia.
 - **Pregunta #2** - ¿Qué porcentaje del total de solicitudes corresponde a cada nacionalidad?
 #
 
-### 🧰Herramientas Utilizadas en el Analísis
+### 🧰Herramientas Utilizadas en el Análisis
 Para realizar este análisis de datos, se utilizó el lenguaje de programación **Python**, junto con las librerías **Pandas**, **Matplotlib** y **Seaborn**, que permitieron organizar, procesar y visualizar la información del dataset.
 
 Con **Pandas** se hizo la carga y limpieza de los datos, además de los cálculos estadísticos como el **promedio**, **conteo** y **porcentaje** de las solicitudes de visa, según variables como nacionalidad, sexo y año de solicitud.
