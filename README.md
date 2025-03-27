@@ -1,6 +1,6 @@
 # 📊Analítica de Datos - Intro. Ing. de Sistemas
 
-[Go to .ipynb File](https://colab.research.google.com/assets/colab-badge.svg)
+[Go to .ipynb File](/analiticadedatos.ipynb)
 
 ## 👥Integrantes
 - Catalina Forero
