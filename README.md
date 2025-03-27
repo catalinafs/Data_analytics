@@ -66,7 +66,6 @@ holis
 ## Resultados
 
 Los resultados se encuentran en cada carpeta de cada perfil con su respectiva grafica y explicación. Cada carpeta tiene un archivo README que tiene las respuestas y a su vez las graficas.
-
 #
 
 ## Conclusiones
